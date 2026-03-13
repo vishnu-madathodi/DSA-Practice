@@ -12,4 +12,3 @@ int Solution::solve(vector<int> &A) {
     }
     return maxGroot;
 }
-
