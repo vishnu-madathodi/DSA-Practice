@@ -42,3 +42,5 @@ int main()
     //5. top() function returns the top element in the stack
     printStack(numbers);
 }
+
+
