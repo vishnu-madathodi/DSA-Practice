@@ -1,5 +1,4 @@
 // stackExample.cpp : Stack is LIFO: Last in, first out. 
-//
 
 #include <iostream>
 #include <stack>
